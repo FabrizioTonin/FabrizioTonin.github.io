@@ -1,0 +1,17 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+
+.textos-de-la-carta{
+    background-color: rgb(145, 114, 114); 
+}
+
+.margen-card-texto{
+    margin-top: 5%;
+    margin-bottom: 6%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
